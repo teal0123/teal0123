@@ -1,4 +1,4 @@
-ة# 👋 Hi, I'm Marwa Omar
+Hi there,I'm Marwa Omar
  Data Analyst | Mathematics & Statistics Background
 
 A results-driven Data Analyst passionate about turning raw data into actionable business insights. Experienced in relational database management, data modeling (Star Schema), and creating interactive business dashboards.
